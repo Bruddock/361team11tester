@@ -2,6 +2,10 @@ package guiTester;
 
 //hello people, this is my altered comment
 // hello
+
+//this one want to include into merging
+//this one no!!!
+
 import java.util.Scanner;
 import java.util.Random;
 public class WoolFactory{

@@ -1,6 +1,6 @@
 package guiTester;
 
-
+// THIS IS JAMES MODIFYING
 import java.util.Scanner;
 import java.util.Random;
 public class WoolFactory{
